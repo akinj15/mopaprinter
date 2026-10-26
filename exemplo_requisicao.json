@@ -1,0 +1,6 @@
+{
+  "modelo_impressora": "epson",
+  "caminho_impressora": "192.168.1.100:9100",
+  "tamanho_fonte": "normal",
+  "conteudo": "================================\n     MOPAPRINTER CUPOM FISCAL   \n================================\nItem 01 - Cafe Expresso   R$ 6,50\nItem 02 - Pao de Queijo   R$ 8,00\n--------------------------------\nTOTAL:                   R$ 14,50\n================================\n   Obrigado pela preferencia!   \n\n\n"
+}
